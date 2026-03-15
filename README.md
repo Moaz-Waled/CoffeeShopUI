@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This project based on figma design 
+link: [design link](https://www.figma.com/design/bbKalHaPICf3IFedNNd4Fx/Coffee-Shop-Mobile-App-Design--Community-?node-id=2-2&p=f&t=BCqYnoPTTfld2Sjr-0)
